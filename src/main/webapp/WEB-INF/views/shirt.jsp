@@ -12,5 +12,8 @@
     <input name="price" type="number" placeholder="셔츠 가격 입력">
     <button>추가</button>
 </form>
+<section>
+    <p>${shirt}</p>
+</section>
 </body>
 </html>
