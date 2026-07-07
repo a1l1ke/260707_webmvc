@@ -5,6 +5,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+//@Data // 복합 구성 되어 있어서 컨트롤이 잘 안되는 느낌
 @Getter // 필드(멤버변수) 있는 값에 접근자 Getter - 값을 읽어주는 메서드
 @Setter // set*** -> 값을 바꿔줌 (최근에는 Setter 사용을 지양) - 검증하는 걸 요구하는 추세
 @NoArgsConstructor // 기본 생성자 new 클래스명()
