@@ -7,5 +7,12 @@
 </head>
 <body>
 <h1>Request Scope, Session Scope 비교</h1>
+<h2>Request Scope</h2>
+<p>${rs_uuid}</p>
+<p>${rs_ct}</p>
+<h2>Session Scope</h2>
+<p>${ss_uuid}</p>
+<p>${ss_ct}</p>
+<p>${ss_count}</p>
 </body>
 </html>
