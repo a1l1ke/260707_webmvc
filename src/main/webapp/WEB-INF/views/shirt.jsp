@@ -1,4 +1,4 @@
-<%-- /WEB-INF/views/index.jsp --%>
+<%-- /WEB-INF/views/shirt.jsp --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
